@@ -184,17 +184,18 @@ header .header-content img {
   margin: auto;
   text-align: center;
 }
-
 #about .about-content .col-1 h3 {
   font-size: 28px;
   color: var(--primary-color);
   margin-bottom: 20px;
+  text-align: center;
 }
 
 #about .about-content .col-1 p {
   color: var(--gray);
   margin-bottom: 20px;
   line-height: 1.8;
+  text-align: center;
 }
 
 /* About End */
@@ -500,5 +501,6 @@ header .header-content img {
     font-size: 14px;
   }
 }
+
 
 
